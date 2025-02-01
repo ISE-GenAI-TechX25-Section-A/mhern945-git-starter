@@ -19,4 +19,9 @@ git push # attempt to push local changes to remote
 Was able to reach 100% completion in the Main category, then level 1:7 on
 Remotes.
 
+## [learngitbranching] screenshots:
+
+![Screenshot From 2025-01-31 18-58-16](https://github.com/user-attachments/assets/bbfee769-9576-4e29-9140-7caa797675e9)
+![Screenshot From 2025-01-31 19-06-25](https://github.com/user-attachments/assets/acdc8679-9236-47b0-8381-8426d21515aa)
+
 [learngitbranching]: https://learngitbranching.js.org/
